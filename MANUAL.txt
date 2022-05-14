@@ -1,0 +1,55 @@
+//////////////////////////////////////////////////////////////////////////////
+                          Manual del proyecto
+/////////////////////////////////////////////////////////////////////////////
+
+1.-Abrir el archivo Principal.m
+
+2.-Ejecutar el código
+
+3.-Elegir alguna de las opciones (A) Composición o (B) Densidad relativa
+
+-----------------------------------------------------------------------
+-----------------Composición-------------------------------------------
+
+A1.-Introducir la temperatura de yacimiento en grados Farenheit
+
+A2.-Presión inicial del sistema(Se refiere a la menor presión del sistema)
+
+A3.-Presión final del sistema(Se refiere a la mayor presión del sistema)
+
+A4.-Delta de Presión(Pasos a los que requiere calcular cada etapa de presión)
+
+A5.-Introducir la composición del fluido
+
+A6.-Calcular
+
+A7.-En la tabla se muestran los valores calculados
+
+A8.-Despliegue el menú para ver las graficas(ZvsP, CgvsP, BgvsP, etc)
+
+A9.-Borrar(Borra el contenido introducido)
+
+A10.-Regresar(Regresa al paso 3) 
+
+-----------------------------------------------------------------------
+-----------------Densidad relativa-------------------------------------
+
+B1.-Introducir la densidad relativa del gas
+
+B2.-Introducir la temperatura de yacimiento en grados Farenheit
+
+B3.-Presión inicial del sistema(Se refiere a la menor presión del sistema)
+
+B4.-Presión final del sistema(Se refiere a la mayor presión del sistema)
+
+B5.-Delta de Presión(Pasos a los que requiere calcular cada etapa de presión)
+
+B6.-Calcular
+
+B7.-En la tabla se muestran los valores calculados
+
+B8.-Despliegue el menú para ver las graficas(ZvsP, CgvsP, BgvsP, etc)
+
+B9.-Borrar(Borra el contenido introducido)
+
+B10.-Regresar(Regresa al paso 3) 
